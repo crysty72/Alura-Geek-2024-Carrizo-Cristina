@@ -1,0 +1,16 @@
+{
+  "name": "alura-geek-2024-carrizo-cristina",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ],
+  "version": 2
+}

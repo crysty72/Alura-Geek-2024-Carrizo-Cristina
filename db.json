@@ -1,0 +1,70 @@
+{
+  "productos": [
+    {
+      "id": "f0ea",
+      "nombre": "banco de herramientas",
+      "precio": "18.50",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_835154-MLA48554339371_122021-O.webp"
+    },
+    {
+      "id": "a217",
+      "nombre": "mate cars",
+      "precio": "37.70",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_792209-MLU72637073473_112023-O.webp"
+    },
+    {
+      "id": "bb5d",
+      "nombre": "auto control remoto",
+      "precio": "50.00",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_772788-MLU75143006476_032024-O.webp"
+    },
+    {
+      "id": "ae92",
+      "nombre": "cars ",
+      "precio": "15.00",
+      "imagen_url": "https://tse1.mm.bing.net/th?id=OIP.6V-G7nG55tkMwvsOqujPbAHaEp&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "e515",
+      "nombre": "nave",
+      "precio": "35.00",
+      "imagen_url": "https://m.media-amazon.com/images/I/5136MnAsApL.jpg"
+    },
+    {
+      "id": "7476",
+      "nombre": "carrito nena",
+      "precio": "10.00",
+      "imagen_url": "https://http2.mlstatic.com/carro-carrito-fisher-price-montable-juguete-nina-mercado-D_NQ_NP_20148-MLM20184710276_102014-F.jpg"
+    },
+    {
+      "id": "b92f",
+      "nombre": "Donatello",
+      "precio": "39.00",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_865404-MLA71148795759_082023-O.webp"
+    },
+    {
+      "id": "2a6e",
+      "nombre": "Tortuga Ninja moto",
+      "precio": "89.00",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_979991-MLA71241386460_082023-O.webp"
+    },
+    {
+      "id": "9ea5",
+      "nombre": "Dinosaurio",
+      "precio": "12.00",
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/71YesRy76zL._AC_SL1500_.jpg"
+    },
+    {
+      "nombre": "mini peluche",
+      "precio": "14.00",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_2X_768442-MLU72756129042_112023-F.webp",
+      "id": "eBakHea"
+    },
+    {
+      "nombre": "Barclay perro peluche",
+      "precio": "12.00",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_698194-MLA43846781913_102020-O.webp",
+      "id": "qHEJXM_"
+    }
+  ]
+}
