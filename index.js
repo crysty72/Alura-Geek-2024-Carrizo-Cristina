@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 cardProducto.classList.add('card-producto');
   
                 const figura = document.createElement('figure');
-                const imagenProducto = document.createElement('img');
+                const imagenProducto = document.createElement('imagenes');
                 imagenProducto.classList.add('imagen-producto');
                 imagenProducto.src = producto.imagen_url;
                 imagenProducto.alt = producto.nombre;

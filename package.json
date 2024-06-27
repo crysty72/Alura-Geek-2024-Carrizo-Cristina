@@ -4,8 +4,8 @@
   "description": "Alura Geek 2024",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000",
-    "deploy": "vercel --prod"
+    "start": "json-server --watch db.json "
+    
   },
   "author": "Cristina Carrizo",
   "license": "ISC",
