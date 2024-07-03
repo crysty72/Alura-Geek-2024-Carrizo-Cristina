@@ -1,145 +1,140 @@
-{"productos":[
-  {
-    "id": 1,
-    "name": "Playstation 5 Controller - White",
-    "price": 50,
-    "img": "https://m.media-amazon.com/images/I/61IIJGmdmnL._SL1500_.jpg",
-    "description": "Playstation 5 Controller",
-    "category": "Video Games"
-  },
-  {
-    "id": 2,
-    "name": "Playstation 5 Digital",
-    "price": 300,
-    "img": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
-    "description": "Playstation 5 console",
-    "category": "Video Games"
-  },
-  {
-    "id": 3,
-    "name": "Splid Pad Pro - Zelda Tear of the Kingdom",
-    "price": 20,
-    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Accessories/Controllers/split-pad-pro-for-nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom-edition-120385/120385-hori-split-pad-pro-zelda-totk-front-detached-1200x675",
-    "description": "Controller for Nintendo Switch",
-    "category": "Video Games"
-  },
-  {
-    "id": 4,
-    "name": "Nintendo Switch",
-    "price": 250,
-    "img": "https://m.media-amazon.com/images/I/51Gz7IimgoL._AC_SL1024_.jpg",
-    "description": "Nintendo Switch console",
-    "category": "Video Games"
-  },
-  {
-    "id": 5,
-    "name": "PlayStation 5",
-    "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png",
-    "description": "Next generation gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 6,
-    "name": "Xbox Series X",
-    "price": 400,
-    "img": "https://assets.xboxservices.com/assets/fb/d2/fbd2cb56-5c25-414d-9f46-e6a164cdf5be.png?n=XBX_A-BuyBoxBGImage01-D.png",
-    "description": "Powerful gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 7,
-    "name": "Nintendo Gameboy Advance",
-    "price": 200,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nintendo-Game-Boy-Advance-Purple-FL.jpg",
-    "description": "Hybrid gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 8,
-    "name": "PlayStation 4 - Fat",
-    "price": 300,
-    "img": "https://www.gamerfocus.co/wp-content/uploads/2015/11/PiEsFor.jpg",
-    "description": "Previous generation gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 9,
-    "name": "Xbox One",
-    "price": 250,
-    "img": "https://http2.mlstatic.com/D_Q_NP_834546-MLA50832788403_072022-O.webp",
-    "description": "Previous generation gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 10,
-    "name": "Nintendo 3DS",
-    "price": 150,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/1200px-Nintendo-3DS-AquaOpen.png",
-    "description": "Handheld gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 11,
-    "name": "Sega Genesis",
-    "price": 120,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sega-Genesis-Mk2-6button.jpg/2560px-Sega-Genesis-Mk2-6button.jpg",
-    "description": "Retro gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 12,
-    "name": "Atari 2600",
-    "price": 80,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Atari-2600-Wood-4Sw-Set.jpg",
-    "description": "Vintage gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 13,
-    "name": "Super Nintendo Entertainment System",
-    "price": 160,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/SNES-Mod1-Console-Set.png",
-    "description": "Classic gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 14,
-    "name": "Nintendo 64",
-    "price": 170,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nintendo-64-wController-L.jpg/1200px-Nintendo-64-wController-L.jpg",
-    "description": "Iconic gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 15,
-    "name": "Nintendo Switch Oled",
-    "price": 250,
-    "img": "https://falabella.scene7.com/is/image/FalabellaCO/gsc_118315403_2051977_1?wid=800&hei=800&qlt=70",
-    "description": "Hybrid gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 16,
-    "name": "Nintendo Switch Lite",
-    "img": "https://http2.mlstatic.com/D_NQ_NP_770609-MLU72631430362_112023-O.webp",
-    "description": "Hybrid gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 17,
-    "name": "Playstation 4 - Slim",
-    "img": "https://images-cdn.ubuy.co.in/64e3468236836403d857c6ab-sony-playstation-4-slim-500gb-console.jpg",
-    "description": "Previous generation gaming console",
-    "category": "Console"
-  },
-  {
-    "id": 18,
-    "name": "Playstation 4 - Pro",
-    "img": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-pro-product-thumbnail-01-en-14sep21?$facebook$",
-    "description": "Previous generation gaming console",
-    "category": "Console"
-  }
-
-]
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Mando de PlayStation 5 - Blanco",
+      "precio": 50,
+      "img": "https://m.media-amazon.com/images/I/61IIJGmdmnL._SL1500_.jpg",
+      "description": "Mando de PlayStation 5",
+      "categoría": "Videojuegos"
+    },
+    {
+      "id": "2",
+      "nombre": "Playstation 5 digital",
+      "precio": 300,
+      "img": "https://tse3.mm.bing.net/th?id=OIP.s3PQb9cj1bgjF6jsKZq47wAAAA&pid=Api&P=0&h=180",
+      "description": "Consola PlayStation 5",
+      "categoría": "Videojuegos"
+    },
+    {
+      "id": "4",
+      "nombre": "Nintendo Switch",
+      "precio": 250,
+      "img": "https://tse3.mm.bing.net/th?id=OIP.f9m_2hWvrP7y9dAjRk8KyQHaHa&pid=Api&P=0&h=180",
+      "description": "Consola Nintendo Switch",
+      "categoría": "Videojuegos"
+    },
+    {
+      "id": "5",
+      "nombre": "PlayStation 5",
+      "precio": 500,
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6430/6430161cv13d.jpg",
+      "description": "Consola de juegos de próxima generación",
+      "categoría": "Consola"
+    },
+    {
+      "id": "6",
+      "nombre": "Xbox Serie X",
+      "precio": 400,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.hSQsQkhPTFXJImNOEuufcwAAAA&pid=Api&P=0&h=180",
+      "description": "Potente consola de juegos",
+      "categoría": "Consola"
+    },
+    {
+      "id": "7",
+      "nombre": "Nintendo Gameboy Advance",
+      "precio": 200,
+      "img": "https://infinityretro.com/wp-content/uploads/2019/08/Gameboy-Advance-Handheld.png",
+      "description": "Consola de juegos híbrida",
+      "categoría": "Consola"
+    },
+    {
+      "id": "8",
+      "nombre": "PlayStation 4 - Gorda",
+      "precio": 300,
+      "img": "https://www.bhphotovideo.com/images/images2000x2000/sony_3003131_ps4_1tb_days_of_1408290.jpg",
+      "description": "Consola de juegos de la generación anterior",
+      "categoría": "Consola"
+    },
+    {
+      "id": "9",
+      "nombre": "Xbox One",
+      "precio": 250,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.PfsfVEANoiT3Pu3519iiOQAAAA&pid=Api&P=0&h=180",
+      "description": "Consola de juegos de la generación anterior",
+      "categoría": "Consola"
+    },
+    {
+      "id": "10",
+      "nombre": "Nintendo 3DS",
+      "precio": 150,
+      "img": "https://tse3.mm.bing.net/th?id=OIP.I1TMaK2-dHLtWWekKdSQ_gHaG3&pid=Api&P=0&h=180",
+      "description": "Consola de juegos portátil",
+      "categoría": "Consola"
+    },
+    {
+      "id": "11",
+      "nombre": "Sega Genesis",
+      "precio": 120,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.Ht0WOjZuP3Z4jQVXVu1O2QHaHa&pid=Api&P=0&h=180",
+      "description": "Consola de juegos retro",
+      "categoría": "Consola"
+    },
+    {
+      "id": "12",
+      "nombre": "Atari 2600",
+      "precio": 80,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.l22JqrTJc1UEKciFfWfxBgHaE3&pid=Api&P=0&h=180",
+      "description": "Consola de juegos vintage",
+      "categoría": "Consola"
+    },
+    {
+      "id": "13",
+      "nombre": "Sistema de entretenimiento Super Nintendo",
+      "precio": 160,
+      "img": "https://tse3.mm.bing.net/th?id=OIP.IV3crChL3B1A0Orw7B88kwHaDc&pid=Api&P=0&h=180",
+      "description": "Consola de juegos clásica",
+      "categoría": "Consola"
+    },
+    {
+      "id": "14",
+      "nombre": "Nintendo 64",
+      "precio": 170,
+      "img": "https://cdn11.bigcommerce.com/s-6334b/product_images/uploaded_images/140162e7-e01a-4b88-a99c-7bf01d18076b.jpeg",
+      "description": "Consola de juegos icónica",
+      "categoría": "Consola"
+    },
+    {
+      "id": "15",
+      "nombre": "Nintendo Switch Oled",
+      "precio": 250,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.4H6stRGxSBCSlFucYKYvcwHaEK&pid=Api&P=0&h=180",
+      "description": "Consola de juegos híbrida",
+      "categoría": "Consola"
+    },
+    {
+      "id": "16",
+      "nombre": "Nintendo Switch Lite",
+      "precio": 200,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.lUhsHQjOdfosIPGdr3KJewHaE7&pid=Api&P=0&h=180",
+      "description": "Consola de juegos híbrida",
+      "categoría": "Consola"
+    },
+    {
+      "id": "17",
+      "nombre": "Playstation 4 - Slim",
+      "precio": 300,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.4-rkumRJBa4tZ6xyW_dbuAHaEK&pid=Api&P=0&h=180",
+      "description": "Consola de juegos de la generación anterior",
+      "categoría": "Consola"
+    },
+    {
+      "id": "18",
+      "nombre": "Playstation 4 - Pro",
+      "precio": 400,
+      "img": "https://cdnssl.ubergizmo.com/wp-content/uploads/2018/08/500-million-ps4-pro-1.jpeg",
+      "description": "Consola de juegos de la generación anterior",
+      "categoría": "Consola"
+    }
+  ]
 }
